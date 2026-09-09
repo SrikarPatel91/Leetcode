@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SrikarPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/SrikarPatel91/Leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SrikarPatel91/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/SrikarPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/SrikarPatel91/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SrikarPatel91/Leetcode/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SrikarPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
